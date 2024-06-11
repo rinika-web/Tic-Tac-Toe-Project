@@ -1,0 +1,48 @@
+.container {
+    background-color: rgba(23, 92, 203, 0.685);
+    color: rgb(243, 245, 219);
+    text-align:center;
+    align-items: center;
+}
+.reset {
+    background-color: blue;
+    color: rgb(99, 234, 36);
+    size: 50px;
+    shape-margin: 20px;
+    width: 90px;
+    height: 50px;
+    cursor:pointer;
+    outline: none;
+    font-size: 30px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border-radius: 9px;
+}
+.title span {
+    color: rgb(225, 199, 250);
+    
+}
+.board {
+    display: flex;
+    width: 400px;
+    height:400px;
+    margin: auto;
+    font-size: 80PX;
+   
+    
+}
+   
+.boxes {
+    display: flex;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    background-color: rgba(241, 136, 136, 0.847);
+    border: 2px solid black;
+    margin:0;
+    align-items: center;
+    
+}
+.row {
+    display: inline-block;
+}
