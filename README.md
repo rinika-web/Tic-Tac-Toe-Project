@@ -22,8 +22,10 @@ Installation
 
 **Clone the repository:**
 
-<git clone https://github.com/rinika-web/tic-tac-toe-react>
+git clone (https://github.com/rinika-web/Tic-Tac-Toe-Project/tree/main)
+
 cd tic-tac-toe-react
+
 Install dependencies:
 
 
