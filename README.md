@@ -22,7 +22,7 @@ Installation
 
 **Clone the repository:**
 
-<git clone https://github.com/rinika-web/tic-tac-toe-react.git>
+<git clone https://github.com/rinika-web/tic-tac-toe-react>
 cd tic-tac-toe-react
 Install dependencies:
 
@@ -68,3 +68,6 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 ## Acknowledgements
 This project was bootstrapped with Create React App.
 Tailwind CSS for the beautiful styling.
+
+## LinkedIn 
+<https://www.linkedin.com/in/rinika-koley-802406253>
